@@ -5,7 +5,7 @@ from src.data_processor import TrafficDataProcessor
 from src.forecaster import ImpactForecaster
 
 def train_models():
-    data_path = 'Astram event data_anonymized - Astram event data_anonymizedb40ac87.csv'
+    data_path = 'traffic_dataset.csv'
     
     if not os.path.exists(data_path):
         print(f"Error: Dataset not found at {data_path}")
