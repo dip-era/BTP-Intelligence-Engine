@@ -5,6 +5,10 @@
 
 The **BTP Intelligence Engine** is a production-grade MLOps prototype designed to simulate a live command center tool. Moving beyond standard static machine learning, it provides a comprehensive end-to-end simulation capable of predicting, visualizing, and coordinating responses to localized traffic breakdown events (both planned and unplanned) across the Bengaluru Metropolitan Area.
 
+[CLick here](https://youtu.be/XTd-b6_Qsls) for demo video 
+
+[Click here](https://huggingface.co/spaces/ranbyDipz/BTP-Intelligence-Engine) for the application 
+
 ## Key Features
 
 ### 1. Ultra-Premium "Cyber-Neon" Aesthetic
